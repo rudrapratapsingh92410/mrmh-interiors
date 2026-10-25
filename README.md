@@ -2,6 +2,9 @@
 
 A luxury, editorial-grade web experience engineered for **MRMH Interiors (OPC) Pvt. Ltd.** (Mahabir Tower, Ranchi, Jharkhand), translating their 4.9★ reputation into a digital studio experience.
 
+🌐 **Live Demo**: [https://rudrapratapsingh92410.github.io/mrmh-interiors/](https://rudrapratapsingh92410.github.io/mrmh-interiors/)  
+📦 **GitHub Repository**: [https://github.com/rudrapratapsingh92410/mrmh-interiors](https://github.com/rudrapratapsingh92410/mrmh-interiors)
+
 ---
 
 ## 🏛️ Six Core Transformation Pillars Implemented
